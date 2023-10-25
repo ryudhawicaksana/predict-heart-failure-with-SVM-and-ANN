@@ -4,6 +4,6 @@ I began by exploring the 12 original features to understand their relation to he
 
 # Dataset Information
 
-The Heart Failure Prediction is obtained from Kaggle. Dataset from Davide Chicco, Giuseppe Jurman: Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Medical Informatics and Decision Making 20, 16 (2020).
+The <a href="https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data/data">Heart Failure Prediction</a> is obtained from Kaggle. Dataset from Davide Chicco, Giuseppe Jurman: Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Medical Informatics and Decision Making 20, 16 (2020).
 
-<a href="https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data/data">The Heart Failure Prediction</a>
+
